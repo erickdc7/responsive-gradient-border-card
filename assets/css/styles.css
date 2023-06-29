@@ -14,7 +14,7 @@
   /*.5rem = 8px | 1rem = 16px ...*/
   --body-font: "Poppins", sans-serif;
   --h2-font-size: 1.25rem;
-  --normal-font-size: .938rem;
+  --normal-font-size: 0.938rem;
 }
 
 /*========== Responsive typography ==========*/
@@ -44,24 +44,17 @@ a {
 
 /*=============== CARD ===============*/
 
-
 /* Shapes card */
-
 
 /* Color change */
 
-
 /* Shapes scale */
 
-
 /* Shapes scale animation */
-
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
 
-
 /* For medium devices */
-
 
 /* For large devices */
