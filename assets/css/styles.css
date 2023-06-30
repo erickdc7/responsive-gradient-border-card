@@ -49,6 +49,12 @@ a {
   margin-inline: 1.5rem; /* margin left and right: 1.5rem */
 }
 
+.card__container,
+.card__article {
+  display: grid;
+  gap: 2rem;
+}
+
 /* Shapes card */
 
 /* Color change */
