@@ -106,6 +106,19 @@ a {
   border-radius: 1.5rem;
 }
 
+.card__shape-3 {
+  width: 76px;
+  height: 76px;
+  background: linear-gradient(
+    140deg,
+    hsl(var(--hue-1), 85%, 60%) 3%,
+    hsl(var(--hue-2), 85%, 60%) 100%
+  );
+  border-radius: 1rem;
+  display: grid;
+  place-items: center;
+}
+
 /* Color change */
 
 /* Shapes scale */
