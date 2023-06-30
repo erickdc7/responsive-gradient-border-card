@@ -135,6 +135,12 @@ a {
   z-index: 3;
 }
 
+.card__title {
+  font-size: var(--h2-font-size);
+  margin-bottom: 0.25rem;
+  font-weight: 600;
+}
+
 /* Color change */
 
 /* Shapes scale */
