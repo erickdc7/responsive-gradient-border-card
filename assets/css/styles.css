@@ -55,6 +55,10 @@ a {
   gap: 2rem;
 }
 
+.card__container {
+  padding-block: 4.5rem; /* padding top and bottom: 4.5rem */
+}
+
 /* Shapes card */
 
 /* Color change */
