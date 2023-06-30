@@ -59,6 +59,16 @@ a {
   padding-block: 4.5rem; /* padding top and bottom: 4.5rem */
 }
 
+.card__article {
+  --hue-1: 210;
+  --hue-2: 238;
+  position: relative;
+  justify-items: center;
+  color: var(--white-color);
+  text-align: center;
+  padding: 4rem 2rem 3rem;
+}
+
 /* Shapes card */
 
 /* Color change */
