@@ -131,6 +131,10 @@ a {
   font-size: 3rem;
 }
 
+.card__data {
+  z-index: 3;
+}
+
 /* Color change */
 
 /* Shapes scale */
