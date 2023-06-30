@@ -127,6 +127,10 @@ a {
   margin: auto;
 }
 
+.card__icon {
+  font-size: 3rem;
+}
+
 /* Color change */
 
 /* Shapes scale */
