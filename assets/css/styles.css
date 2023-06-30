@@ -43,6 +43,11 @@ a {
 }
 
 /*=============== CARD ===============*/
+.container {
+  display: grid;
+  place-items: center;
+  margin-inline: 1.5rem; /* margin left and right: 1.5rem */
+}
 
 /* Shapes card */
 
