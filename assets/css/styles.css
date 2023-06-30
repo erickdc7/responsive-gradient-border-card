@@ -145,6 +145,15 @@ a {
   margin-bottom: 1.5rem;
 }
 
+.card__button {
+  display: inline-block;
+  background-color: var(--white-color);
+  padding: 1rem 1.5rem;
+  border-radius: 0.5rem;
+  color: var(--black-color);
+  font-weight: 500;
+}
+
 /* Color change */
 
 /* Shapes scale */
