@@ -84,6 +84,7 @@ a {
 
 /* Shapes card */
 .card__shape-1 {
+  position: relative;
   width: 148px;
   height: 148px;
   background: linear-gradient(
@@ -117,6 +118,13 @@ a {
   border-radius: 1rem;
   display: grid;
   place-items: center;
+}
+
+.card__shape-2,
+.card__shape-3 {
+  position: absolute;
+  inset: 0;
+  margin: auto;
 }
 
 /* Color change */
