@@ -155,6 +155,10 @@ a {
 }
 
 /* Color change */
+.card__orange {
+  --hue-1: 300;
+  --hue-2: 30;
+}
 
 /* Shapes scale */
 
