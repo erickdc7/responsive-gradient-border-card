@@ -175,6 +175,7 @@ a {
     hsl(var(--hue-2), 65%, 45%) 100%
   );
   border-radius: 2rem;
+  top: 4rem;
 }
 
 .card__scale-2 {
