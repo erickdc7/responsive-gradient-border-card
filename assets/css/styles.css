@@ -177,6 +177,13 @@ a {
   border-radius: 2rem;
 }
 
+.card__scale-2 {
+  width: 116px;
+  height: 116px;
+  background: var(--container-color);
+  border-radius: 1.5rem;
+}
+
 /* Shapes scale animation */
 
 /*=============== BREAKPOINTS ===============*/
