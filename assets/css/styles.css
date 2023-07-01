@@ -184,6 +184,12 @@ a {
   border-radius: 1.5rem;
 }
 
+.card__scale-1,
+.card__scale-2 {
+  position: absolute;
+  z-index: 10;
+}
+
 /* Shapes scale animation */
 
 /*=============== BREAKPOINTS ===============*/
