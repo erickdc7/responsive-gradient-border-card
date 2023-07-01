@@ -183,6 +183,7 @@ a {
   height: 116px;
   background: var(--container-color);
   border-radius: 1.5rem;
+  top: 5rem;
 }
 
 .card__scale-1,
