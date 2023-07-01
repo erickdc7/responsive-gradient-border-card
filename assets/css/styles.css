@@ -160,6 +160,11 @@ a {
   --hue-2: 30;
 }
 
+.card__green {
+  --hue-1: 180;
+  --hue-2: 50;
+}
+
 /* Shapes scale */
 
 /* Shapes scale animation */
