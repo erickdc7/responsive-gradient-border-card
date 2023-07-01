@@ -166,6 +166,16 @@ a {
 }
 
 /* Shapes scale */
+.card__scale-1 {
+  width: 148px;
+  height: 148px;
+  background: linear-gradient(
+    140deg,
+    hsl(var(--hue-1), 75%, 25%) 3%,
+    hsl(var(--hue-2), 65%, 45%) 100%
+  );
+  border-radius: 2rem;
+}
 
 /* Shapes scale animation */
 
