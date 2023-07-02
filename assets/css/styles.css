@@ -209,6 +209,10 @@ a {
   .container {
     margin-inline: 1rem;
   }
+
+  .card__article {
+    padding: 2rem 1rem;
+  }
 }
 
 /* For medium devices */
