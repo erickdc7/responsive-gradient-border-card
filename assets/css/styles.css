@@ -217,6 +217,10 @@ a {
   .card__scale-1 {
     top: 2rem;
   }
+
+  .card__scale-2 {
+    top: 3rem;
+  }
 }
 
 /* For medium devices */
