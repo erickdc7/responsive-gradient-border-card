@@ -224,5 +224,10 @@ a {
 }
 
 /* For medium devices */
+@media screen and (min-width: 576px) {
+  .card__container {
+    grid-template-columns: 328px;
+  }
+}
 
 /* For large devices */
