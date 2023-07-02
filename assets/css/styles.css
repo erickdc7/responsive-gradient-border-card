@@ -213,6 +213,10 @@ a {
   .card__article {
     padding: 2rem 1rem;
   }
+
+  .card__scale-1 {
+    top: 2rem;
+  }
 }
 
 /* For medium devices */
