@@ -198,6 +198,11 @@ a {
   transform: scale(6);
 }
 
+.card__article:hover .card__scale-2 {
+  transform: scale(6);
+  transition-delay: 0.1s;
+}
+
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
 
