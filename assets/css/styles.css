@@ -194,6 +194,9 @@ a {
 }
 
 /* Shapes scale animation */
+.card__article:hover .card__scale-1 {
+  transform: scale(6);
+}
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
