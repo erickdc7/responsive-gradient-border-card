@@ -245,4 +245,8 @@ a {
   .card__container {
     grid-template-columns: repeat(3, 345px);
   }
+
+  .card__article {
+    padding: 4.5rem 2rem 3.5rem;
+  }
 }
