@@ -241,4 +241,8 @@ a {
   .container {
     height: 100vh;
   }
+
+  .card__container {
+    grid-template-columns: repeat(3, 345px);
+  }
 }
